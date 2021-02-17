@@ -26,5 +26,4 @@ permalink: /about/
 ### تواصل معنا
 
 [Email](mailto:akercoding@outlook.com)
-[WhatsApp](+201275265845)
 [Facebook](https://www.facebook.com/akercoding)
